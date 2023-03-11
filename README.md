@@ -9,10 +9,6 @@ Termín v IS bude těsně před deadlinem posunut na 08.03.2023 7:00.
 
 **Archiv:** http://ivs.fit.vutbr.cz/projekt-testovani/ivs_project_1.zip
 
-## Kontakty
-* Martin Dočekal: idocekal@fit.vutbr.cz
-* Karel Ondřej: ondrej@fit.vut.cz
-
 ## Použité nástroje
 Jako implementační jazyk byl zvolen **C/C++**, (základní znalost by měla být dostatečná). 
 Jako testovací framework je využívána kombinace:
